@@ -1,3 +1,9 @@
+# RS.SCHOOL-Stage-1-Core-JS-101
+Task from https://rs.school/js/ stage 1
+___
+___
+____
+
 # Core JS 101
 
 :warning: **Please note that you mustn't open PRs that contains the answers to this repo!**
